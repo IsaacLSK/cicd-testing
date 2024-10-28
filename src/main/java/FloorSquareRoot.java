@@ -16,7 +16,8 @@ public class FloorSquareRoot {
             }
         }
         // make script broken
-        111
+        // fixed
+        // 111
         System.out.println("floorSqrt(" + x + ") = " + ans);
         return ans;
     }
